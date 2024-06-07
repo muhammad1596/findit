@@ -1,5 +1,5 @@
-# findit---Network-Scanner-and-Port-Closer
-This tool will scan the specified network for open ports and close any that it finds.
+# findit
+The findit tool will scan the specified network for open ports and close any that it finds.
 
 # Introduction
 findit is a network scanner tool designed to detect open ports on a specified network and close them. This tool is divided into two parts: a Python script for scanning `scanner.py` and another for closing the detected open ports `closer.py`. The tool is designed to be used on Kali Linux.
