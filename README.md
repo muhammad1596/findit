@@ -17,7 +17,7 @@ findit is a network scanner tool designed to detect open ports on a specified ne
 # Installation
 1. Clone the repository (or download the scripts):
    ```
-   git clone <repository_url>
+   git clone muhammad1596/findit---Network-Scanner-and-Port-Closer
    ```
    ```
    cd findit
